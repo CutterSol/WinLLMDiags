@@ -1,8 +1,8 @@
 # WinLLMDiags
 Simple batch script for Windows AMD LLM DIags that I am currently working on. 
-I am creating this script, to experiment with the development abilities of certain online LLMs, I may move development to a local LLM.  Option 6 & 7 at this time should create a report with relative information to LLMs running on a Windows system with focus on AMD GPUs (for now).  
+I am creating this script, to experiment with the development abilities of certain online LLMs, I may move development to a local LLM.  Option 6 & 7 at this time should create a report with relative information to LLMs running on a Windows system with focus on AMD GPUs (for now).  Option 7 will attempt to open an HTML file on your browser with the full report.  
 
-This script might could be used as a basis for other scripts such as security testing or LLM performance, and might eventually be ported to python so that it can be run on Linux and/or Mac OSes.  Below is the main menu, which should give you an idea of what the script does.  The word "Diagnostics" is more informational, than diag at this time.      
+This script might could be used as a basis for other scripts such as security testing of LLMs or LLM performance, and may eventually be ported to python so that it can be run on Linux and/or Mac OSes.  Below is the main menu, which should give you an idea of what the script does.  The word "Diagnostics" is more informational, than diag at this time.      
 
 === Main Menu ===
 1. GPU Diagnostics
